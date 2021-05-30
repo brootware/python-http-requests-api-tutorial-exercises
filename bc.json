@@ -1,4 +1,184 @@
 {
+    "port": 3000,
+    "address": "https://amethyst-piranha-3bc6ycng.ws-us08.gitpod.io",
+    "editor": "gitpod",
+    "configPath": {
+        "config": "bc.json",
+        "base": ".learn",
+        "exercises": "./exercises",
+        "output": ".learn/dist"
+    },
+    "outputPath": "./.learn/dist",
+    "publicPath": "/preview",
+    "grading": "isolated",
+    "ignoreRegex": null,
+    "webpack_template": null,
+    "disable_grading": false,
+    "onCompilerSuccess": null,
     "language": "python3",
-    "repository": "https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises"
+    "compiler": "python3",
+    "tester": "pytest",
+    "actions": [
+        "run",
+        "test",
+        "reset"
+    ],
+    "repository": "https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises",
+    "session": 4438195213370057700,
+    "exercises": [
+        {
+            "slug": "01-hello-world",
+            "title": "01-hello-world",
+            "done": false,
+            "path": "exercises/01-hello-world",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "01-what-is-a-request",
+            "title": "01-what-is-a-request",
+            "done": true,
+            "path": "exercises/01-what-is-a-request",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        },
+        {
+            "slug": "02-random-status",
+            "title": "02-random-status",
+            "done": true,
+            "path": "exercises/02-random-status",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        },
+        {
+            "slug": "03-response-body",
+            "title": "03-response-body",
+            "done": true,
+            "path": "exercises/03-response-body",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        },
+        {
+            "slug": "04-response-body-json",
+            "title": "04-response-body-json",
+            "done": true,
+            "path": "exercises/04-response-body-json",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        },
+        {
+            "slug": "05-project-name",
+            "title": "05-project-name",
+            "done": true,
+            "path": "exercises/05-project-name",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        },
+        {
+            "slug": "06-project-list",
+            "title": "06-project-list",
+            "done": true,
+            "path": "exercises/06-project-list",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        },
+        {
+            "slug": "07-project-list-image",
+            "title": "07-project-list-image",
+            "done": true,
+            "path": "exercises/07-project-list-image",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        },
+        {
+            "slug": "08-blog-post-author",
+            "title": "08-blog-post-author",
+            "done": true,
+            "path": "exercises/08-blog-post-author",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        },
+        {
+            "slug": "09-array-of-blog-titles",
+            "title": "09-array-of-blog-titles",
+            "done": true,
+            "path": "exercises/09-array-of-blog-titles",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        },
+        {
+            "slug": "10-get_post_tags",
+            "title": "10-get_post_tags",
+            "done": true,
+            "path": "exercises/10-get_post_tags",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        },
+        {
+            "slug": "11-get_attachment_by_id",
+            "title": "11-get_attachment_by_id",
+            "done": true,
+            "path": "exercises/11-get_attachment_by_id",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        },
+        {
+            "slug": "12-post-request",
+            "title": "12-post-request",
+            "done": true,
+            "path": "exercises/12-post-request",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        },
+        {
+            "slug": "13-post-request-body",
+            "title": "13-post-request-body",
+            "done": true,
+            "path": "exercises/13-post-request-body",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        }
+    ]
 }
